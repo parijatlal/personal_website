@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Parijat Lal</title>
+    <link>https://parijatlal.com/authors/</link>
+      <atom:link href="https://parijatlal.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parijatlal.com/images/icon_hu0ffdefcfe4541773fe59564b0ccc6edb_18651_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://parijatlal.com/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
