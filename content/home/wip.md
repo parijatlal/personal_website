@@ -23,5 +23,5 @@ weight = 30
 #### Margins of Import Tax Evasion
 (with Michael Best, Nada Eissa, Joseph Okello, Sandra Sequeira, and Jakob Rauschendorfer)
 
-#### Withholding Taxes and the Global Trade in Services
+#### Withholding Taxes: Revenue, Efficiency, and Equity Implications for Developing Countries
 (with Alexander Klemm and Li Liu)
