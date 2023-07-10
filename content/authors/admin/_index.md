@@ -18,7 +18,7 @@ organizations:
   url: "https://econ.columbia.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Parijat is a doctoral candidate in economics at Columbia University. Parijat has research interests in development  and environmental economics. 
+bio: Parijat is a doctoral candidate in economics at Columbia University. Parijat has research interests in development and environmental economics. 
 
 interests:
 - Development Economics
