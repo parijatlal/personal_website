@@ -9173,3 +9173,9 @@ div.mermaid {
  **************************************************/
 html[dir="rtl"] body {
   text-align: right; }
+
+.home-section {
+  padding: 30px 0 30px 0; }
+
+nav#navbar-main li {
+  font-size: 16px; }
