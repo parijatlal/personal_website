@@ -24,5 +24,5 @@ weight = 40
 #### [Bridging the Gap Between Growth and Development](https://www.globalpolicyjournal.com/projects/gp-e-books/global-goals-national-actions-making-post-2015-development-agenda-relevant)
 (with Tanoubi Ngangom). In *Global Goals, National Action: Making the Post-2015 Development Agenda Relevant to India*, edited by Vikrom Mathur and Ritika Passi. London: Global Policy and Observer Research Foundation.
 
-#### [India's Economic Footprint in the Developing World](https://www.globalpolicyjournal.com/projects/gp-e-books/global-goals-national-actions-making-post-2015-development-agenda-relevant)
+#### [India's Economic Footprint in the Developing World](https://www.orfonline.org/research/indias-economic-footprint-in-the-developing-world/)
 (with Shubh Soni). August 2015. Observer Research Foundation Issue Brief 100.
