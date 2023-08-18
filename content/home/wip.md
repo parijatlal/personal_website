@@ -20,8 +20,8 @@ weight = 30
 #### Equilibrium Effects of Subsidizing Public Services: Evidence from India's *Janani Suraksha Yojana*
 (with Utkarsh Kumar)
 
-#### Margins of Import Tax Evasion
-(with Michael Best, Nada Eissa, Joseph Okello, Sandra Sequeira, and Jakob Rauschendorfer)
+#### Complementarity and Substitution in Import Tax Evasion
+(with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira)
 
 #### A Closer Look at Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)
