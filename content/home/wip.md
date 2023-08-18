@@ -17,11 +17,11 @@ weight = 30
 
 #### Cooperatives and Competition: Evidence from India's Formal Manufacturing Sector
 
-#### Equilibrium Effects of Subsidized Public Services: Evidence from India's *Janani Suraksha Yojana*
+#### Equilibrium Effects of Subsidizing Public Services: Evidence from India's *Janani Suraksha Yojana*
 (with Utkarsh Kumar)
 
 #### Margins of Import Tax Evasion
 (with Michael Best, Nada Eissa, Joseph Okello, Sandra Sequeira, and Jakob Rauschendorfer)
 
-#### Withholding Taxes: Revenue, Efficiency, and Equity Implications for Developing Countries
+#### A Closer Look at Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)

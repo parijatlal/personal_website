@@ -41,10 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:parijat.lal@columbia.edu".
+  link: "mailto:parijat.lal@columbia.edu"  # For a direct email link, use "mailto:parijat.lal@columbia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/twitter_handle
+  link: https://twitter.com/parijatlal
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=GOOGLE-SCHOLAR-ID
@@ -68,8 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctoral candidate in economics at Columbia University with an interest in studying public economics, development, and inequality. 
+I'm a doctoral candidate in economics at Columbia University with an interest in studying development and inequality through the lens of labor and public economics. 
 
-Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, the Abdul Latif Jameel Poverty Action Lab (J-PAL), the Observer Research Foundation, and Udayan Care along the way.
+Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, the Abdul Latif Jameel Poverty Action Lab (J-PAL), and Udayan Care along the way.
 
 I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the United States for college. I'm a big fan of (old school) hip hop, (Arsenal and Germany) football, and exploring different cuisines. Please feel free to reach out if I can be of help!
