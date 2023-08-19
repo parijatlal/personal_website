@@ -23,5 +23,5 @@ weight = 30
 #### Complementarity and Substitution in Import Tax Evasion
 (with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira)
 
-#### A Closer Look at Withholding Taxes: Implications for Services Trade, Revenue, and Equity
+#### Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)
