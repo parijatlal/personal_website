@@ -20,8 +20,10 @@ weight = 30
 #### Equilibrium Effects of Subsidizing Public Services: Evidence from India's *Janani Suraksha Yojana*
 (with Utkarsh Kumar)
 
-#### Complementarity and Substitution in Import Tax Evasion
+#### Complementarity and Substitution in Import Tax Evasion: Evidence from Ugandan Administrative Data
 (with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira)
 
 #### Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)
+
+#### Agricultural Shocks and Mental Health: Evidence from Rural India
