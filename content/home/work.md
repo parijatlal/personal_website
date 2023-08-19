@@ -19,11 +19,11 @@ weight = 60
 Research Fellow for Joseph Stiglitz (2019 - present) <br>
 Research Fellow for Michael Best (2020-21)
 
-### [International Monetary Fund](https://imf.org)
+#### [International Monetary Fund](https://imf.org)
 Fund Internship Program (Summer 2023)
 
 #### [Dalberg Advisors](https://dalberg.com)
-Analyst (2017-18); Intern (Summer 2016)
+Analyst (2017-18), Intern (Summer 2016)
 
 #### [Harvard Weatherhead Center for International Affairs](https://wcfia.harvard.edu)
 Research Assistant for EU Fellow Marzena Rogalska (2015-16)
