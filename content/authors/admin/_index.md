@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctoral candidate in economics at Columbia University with an interest in studying development and inequality through the lens of labor and public economics. 
+I'm a doctoral candidate in economics at Columbia University with an interest in studying development and inequality through the lens of public and labor economics. 
 
 Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, the Abdul Latif Jameel Poverty Action Lab (J-PAL), and Udayan Care along the way.
 
