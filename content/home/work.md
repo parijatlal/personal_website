@@ -16,8 +16,8 @@ weight = 60
 +++
 
 #### [Department of Economics, Columbia University](https://econ.columbia.edu)
-Research Fellow for Joseph Stiglitz (2019-present) <br>
-Research Fellow for Michael Best (2020-21)
+Graduate Research Fellow for Joseph Stiglitz (2019-present) <br>
+Graduate Research Fellow for Michael Best (2020-21)
 
 #### [International Monetary Fund](https://imf.org)
 Fund Internship Program (2023)
