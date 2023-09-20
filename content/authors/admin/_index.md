@@ -21,9 +21,8 @@ organizations:
 bio: Parijat is a doctoral candidate in economics at Columbia University. Parijat has research interests in development and environmental economics. 
 
 interests:
-- Development Economics
-- Public and Labor Economics
-- Inequality
+- Development Economics and Inequality
+- Public, Labor, and Health Economics
  
 education:
   courses:
