@@ -15,9 +15,9 @@ weight = 30
 
 +++
 
-#### Cooperatives, Competition, and Compensation: Evidence from India [Job Market Paper]
+#### Cooperatives, Competition, and Compensation [Job Market Paper]
 
-#### Equilibrium Effects of Subsidizing Public Services: Evidence from India's *Janani Suraksha Yojana*
+#### Equilibrium Effects of Incentivizing Public Services
 (with Utkarsh Kumar)
 
 #### Complementarity and Substitution in Import Tax Evasion
@@ -26,4 +26,4 @@ weight = 30
 #### Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)
 
-#### Agricultural Shocks and Mental Health: Evidence from Rural India
+#### Agricultural Shocks and Mental Health
