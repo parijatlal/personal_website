@@ -11,7 +11,7 @@ title = "Policy Research"
 #subtitle = "Average instructor rating: 4.8/5"
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 +++
 

@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: Columbia University
-    year: 2024 (expected)
+    year: 2018-2024 (expected)
   - course: BA in Economics
     institution: Harvard College
-    year: 2017
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +71,4 @@ I'm a doctoral candidate in economics at Columbia University with an interest in
 
 Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, the Abdul Latif Jameel Poverty Action Lab (J-PAL), and Udayan Care along the way.
 
-I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the United States for college. I'm a big fan of (old school) hip hop, (Arsenal and Germany) football, reading historical fiction, and exploring different cuisines. Please feel free to reach out if I can be of help!
+I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the United States for college. I'm a big fan of (old school) hip hop, (Arsenal and Germany) football, reading historical fiction, and exploring different cuisines. Feel free to reach out!

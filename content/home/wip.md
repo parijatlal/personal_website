@@ -15,7 +15,7 @@ weight = 30
 
 +++
 
-#### Cooperatives and Competition: Evidence from India's Formal Manufacturing Sector
+#### Cooperatives, Competition, and Compensation: Evidence from India [Job Market Paper]
 
 #### Equilibrium Effects of Subsidizing Public Services: Evidence from India's *Janani Suraksha Yojana*
 (with Utkarsh Kumar)
