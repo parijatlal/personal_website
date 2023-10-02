@@ -25,5 +25,3 @@ weight = 30
 
 #### Withholding Taxes: Implications for Services Trade, Revenue, and Equity
 (with Alexander Klemm and Li Liu)
-
-#### Agricultural Shocks and Mental Health
