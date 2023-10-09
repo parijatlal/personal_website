@@ -16,7 +16,7 @@ weight = 50
 +++
 
 #### [Drivers and Implications of Import Tax Evasion in Uganda](https://www.theigc.org/publications/drivers-and-implications-import-tax-evasion-uganda)
-(with Michael Best, Nada Eissa, Joseph Okello, Sandra Sequeira, and Jakob Rauschendorfer). 2023. International Growth Centre Project Report.
+(with Michael Best, Nada Eissa, Joseph Okello, Jakob Rauschendorfer, and Sandra Sequeira). 2023. International Growth Centre Project Report.
 
 #### [Scalable Business Models for Alternative Biomass Cooking Fuels and Their Potential in Sub-Saharan Africa](https://openknowledge.worldbank.org/handle/10986/28595) 
 (under Dalberg Advisors). 2017. World Bank Energy Sector Management Assistance Program (ESMAP) Working Paper.
