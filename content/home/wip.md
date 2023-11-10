@@ -15,9 +15,9 @@ weight = 30
 
 +++
 
-#### Cooperatives, Competition, and Compensation [Job Market Paper]
+#### [Cooperatives, Competition, and Compensation](https://econ.columbia.edu/wp-content/uploads/sites/41/2020/06/Lal_Parijat_JMP.pdf) [Job Market Paper]
 
-#### Equilibrium Effects of Incentivizing Public Services
+#### [Equilibrium Effects of Incentivizing Public Services](https://econ.columbia.edu/wp-content/uploads/sites/41/2023/09/UK_JMP.pdf)
 (with Utkarsh Kumar)
 
 #### Complementarity and Substitution in Import Tax Evasion
