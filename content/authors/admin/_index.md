@@ -67,8 +67,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctoral candidate in economics at Columbia University with an interest in studying development and inequality through the lens of public and labor economics. **I am on the 2023-24 job market.**
+I'm a doctoral candidate in economics at Columbia University with an interest in studying development economics and inequality. **I am on the 2023-24 job market.**
 
-Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, the Abdul Latif Jameel Poverty Action Lab (J-PAL), and Udayan Care along the way.
+Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, J-PAL, and Udayan Care along the way.
 
-I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the United States for college. I'm a big fan of (old school) hip hop, (Arsenal and Germany) football, reading historical fiction, and exploring different cuisines. Feel free to reach out!
+I was born in Germany, and had the privilege of living in India (my home country), Iran, Austria, Thailand, and Kenya before coming to the US for college. I'm a big fan of (old school) hip hop, (Arsenal and Germany) football, reading historical fiction, and exploring different cuisines. Feel free to reach out!
