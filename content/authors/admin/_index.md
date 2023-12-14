@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a doctoral candidate in economics at Columbia University with an interest in studying development economics and inequality. **I am on the 2023-24 job market.**
+I'm a doctoral candidate in economics at Columbia University with an interest in studying issues related to development and inequality. So far, my research has focused on leveraging large-scale administrative data to answer questions in industrial development, labor, and public economics. **I am on the 2023-24 job market.**
 
 Before graduate school, I worked on projects for the World Bank, WHO, and USAID as an analyst at Dalberg. I received a BA in economics from Harvard College, conducting research at the Weatherhead Center for International Affairs, J-PAL, and Udayan Care along the way.
 
